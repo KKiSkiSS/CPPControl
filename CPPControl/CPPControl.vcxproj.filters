@@ -23,5 +23,14 @@
     <ClCompile Include="1.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="4.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
