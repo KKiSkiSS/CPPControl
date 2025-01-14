@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="delete1.h" />
     <ClInclude Include="main.h" />
   </ItemGroup>
   <ItemGroup>
